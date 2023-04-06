@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/exec"
 	"path"
-	"peak-tracer/types"
+	"github.com/Paxx-RnD/peak-tracer/types"
 	"sort"
 	"strconv"
 	"strings"
